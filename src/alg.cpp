@@ -22,7 +22,7 @@ int countPairs2(int *arr, int len, int value) {
             }
         }
     }
-    return summ;
+    return sum;
 }
 int countPairs3(int* arr, int len, int value) {
     int result = 0;
